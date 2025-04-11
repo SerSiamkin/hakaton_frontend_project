@@ -95,3 +95,7 @@ export const getStationCoordinates = (data) => {
         count
     }));
 };
+
+export const getObservationsWithAudio = (data) => {
+    return data.filter(obs => obs.payload !== null);
+};
