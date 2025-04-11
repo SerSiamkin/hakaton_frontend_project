@@ -1,3 +1,9 @@
+Чтобы запустить локально сайт нужно перейти в скачанную и разархивированную папку проекта в командной строке, затем прописать команду
+npm install
+затем прописать команду
+npm start
+сайт откроется в браузере
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
